@@ -1,10 +1,8 @@
 streamlit==1.39.0
-opencv-contrib-python==4.10.0.84
+opencv-python-headless==4.10.0.84
 numpy==1.26.4
 scikit-image==0.24.0
 pandas==2.2.2
-ultralytics==8.3.70
-pyzbar==0.1.9
 Pillow==10.4.0
 gspread==6.1.4
 oauth2client==4.1.3
